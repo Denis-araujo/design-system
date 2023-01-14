@@ -4,8 +4,17 @@ import { Heading, HeadingProps } from '@ignite-ui/react'
 export default {
   title: 'Typography/Heading',
   component: Heading,
+  size: 'md',
   args: {
     children: 'Custom Title',
+  },
+  argTypes: {
+    size: {
+      options: ['sm', 'md', 'lg', '2xl', '4xl', '5xl', '6xl'],
+      control: {
+        type: 'inline-radio',
+      },
+    },
   },
 } as Meta<HeadingProps>
 

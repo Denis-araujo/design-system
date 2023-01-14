@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/denis-araujo.png',
     alt: 'Denis Araujo',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
