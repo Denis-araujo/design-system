@@ -7,7 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "start-storybook -p 6006",
     "build": "build-storybook",
+<<<<<<< HEAD
     "deploy-storybook": "storybook-to-ghpages"
+=======
+    "deploy-storybook": "storybook-to-ghpages",
+>>>>>>> 2d26ad108ea99de777f389054f0d8486ed42b303
   },
   "keywords": [],
   "author": "",
