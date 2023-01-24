@@ -1,0 +1,2 @@
+import{d as t}from"./index-8d6cc61c.js";import"./index-42521bac.js";import"./es.object.get-own-property-descriptor-64192e07.js";import"./index-4bd83974.js";import"./jsx-runtime-c2142c84.js";const s={title:"Surfaces/Toast",component:t,args:{open:!0,title:"Agendamento",subTitle:"Quarta-feira, 23 de Outubro às 16h"},argTypes:{children:{control:{type:null}},onOpenChange:{open:!0}}},i={},p=["Primary"];export{i as Primary,p as __namedExportsOrder,s as default};
+//# sourceMappingURL=Toast.stories-974a257d.js.map

@@ -1,0 +1,2 @@
+import{e as o}from"./index-8d6cc61c.js";import{j as t}from"./jsx-runtime-c2142c84.js";import"./index-42521bac.js";import"./es.object.get-own-property-descriptor-64192e07.js";import"./index-4bd83974.js";const p={title:"Surfaces/Tooltip",component:o,args:{name:"Teste",children:t("button",{children:"Testando o elemento Tooltip"})},argTypes:{children:{control:{type:null}}}},l={},m=["Primary"];export{l as Primary,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Tooltip.stories-5a66bd34.js.map
